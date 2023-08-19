@@ -1,0 +1,4 @@
+/target
+*.txt
+Cargo.lock
+*.xyz
